@@ -27,3 +27,13 @@ document.cookie = "cookiename=value; expires=0; path=/";
 
 * Third-party cookies may be forbidden by the browser, e.g. Safari does that by default.
 * When setting a tracking cookie for EU citizens, GDPR requires to ask for permission.
+
+### Differences between cookies and localStorage
+
+Cookies and local storage serve different purposes. Cookies are primarily for reading `server-side`, local storage can only be read by the `client-side`. So the question is, in your app, who needs this data — the client or the server?
+
+* localStorage is an implementation of the Storage Interface. It stores data with no expiration date, and gets cleared only through JavaScript, or clearing the Browser Cache / Locally Stored Data - unlike cookie expiry.
+* Cookies give you a limit of `4096 bytes` (4095, actually) - its per cookie. 
+* Local Storage is as big as `5MB` per domain.
+
+
