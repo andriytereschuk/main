@@ -1,2 +1,3 @@
 # HTTP
-* [Cookies. Local Storage vs Cookies](/Cookies.md)
+* [Cookies](/Cookies.md)
+    * [Local Storage vs Cookies](/Cookies.md#diff)
