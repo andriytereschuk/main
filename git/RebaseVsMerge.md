@@ -32,5 +32,5 @@ git rebase origin/master
 ![](https://miro.medium.com/max/1710/1*pzT4KMiZDOFsMOKH-cJjfQ.png)
 
 ## Links
-[https://www.quora.com/What-is-the-difference-between-rebase-and-merge-in-Git](https://www.quora.com/What-is-the-difference-between-rebase-and-merge-in-Git)
-[https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c)
+* [https://www.quora.com/What-is-the-difference-between-rebase-and-merge-in-Git](https://www.quora.com/What-is-the-difference-between-rebase-and-merge-in-Git)
+* [https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c)
