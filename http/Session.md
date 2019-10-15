@@ -1,10 +1,10 @@
 # Session
 
-< `Session` is an authentication method that allows users to get access the data sent from the server.
+> `Session` is an authentication method that allows users to get access the data sent from the server.
 
-< `HTTP` is stateless connection protocol
+> `HTTP` is stateless connection protocol
 
-< The data is typically stored in server memory and looked upon each request via `session id`.
+> The data is typically stored in server memory and looked upon each request via `session id`.
 
 ## How it works
 
