@@ -12,6 +12,7 @@
 * [Middleware](react/Middleware.md)
 
 # Vue
+* [Pros and Cons](vue/Pros and Cons.md)
 
 # NodeJS
 * [Middleware](nodejs/Middleware.md)
