@@ -4,8 +4,8 @@
 
 In server-side web application frameworks, the term is often more specifically used to refer to pre-built software components that can be added to the framework's request/response processing pipeline, to handle tasks such as database access.
 
-> `Middleware` in Nodejs - function that execute after the server receives the request and before the controller sends the response; and can modify `res` and `request` during this trip. To go to the next middleware run function `next()`. If you want to exit run `return`.
-Command `app.use(func)` registers the middleware. Remember, the order is important.
+> `Middleware` in Nodejs - function that execute after the server receives the request and before the controller sends the response; and can modify **res** and **request** during this trip. To go to the next middleware run function **next()**. If you want to exit run **return**.
+Command **app.use(func)** registers the middleware globally. Remember, the order is important.
 
 ## Middlewares in Express
 
