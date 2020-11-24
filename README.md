@@ -3,6 +3,15 @@
 * [Questions](interview/Questions.md)
 * [Tasks](interview/Tasks.md)
 
+# OOP
+
+# SOLID
+* [[S] - single responsibility](solid/s.md)
+* [[O] - open closed](solid/o.md)
+* [[L] - liskov substitution](solid/l.md)
+
+# Patterns
+
 # HTTP
 * [Session](http/Session.md)
 * [Cookies](http/Cookies.md)
